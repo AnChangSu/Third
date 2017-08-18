@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Bus (0.0.4)
+  - Cordova (4.4.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bus
+  - Cordova (~> 4.4.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Bus: 750be2de6cf7b8918eaf69475bf5a7993aac415a
+  Cordova: 561576155c420c54441d99b855de12c6e7b51088
+
+PODFILE CHECKSUM: 660037d5cf6c2b241312c64c3fe0dd870356917d
+
+COCOAPODS: 1.2.0
